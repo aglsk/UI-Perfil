@@ -30,7 +30,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer sugestões de me
 
 ## Licença
 
-Este projeto é distribuído sob a licença [MIT]([LICENSE](https://github.com/aglsk/UI-Perfil/tree/main?tab=readme-ov-file#)). Sinta-se à vontade para usar, modificar e distribuir o projeto conforme necessário, desde que a atribuição adequada seja fornecida.
+Este projeto é distribuído sob a licença [MIT]([https://github.com/aglsk/UI-Perfil/tree/main?tab=readme-ov-file#]). Sinta-se à vontade para usar, modificar e distribuir o projeto conforme necessário, desde que a atribuição adequada seja fornecida.
 
 ---
 
